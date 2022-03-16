@@ -1,0 +1,5 @@
+1) ls		// to see all the files and solders present in current dir
+2) lis -a	// to see all the hidden files 
+3) cd dir_name	// to change the dir form current dir
+4) clear	// clear the console
+5)
